@@ -1,7 +1,9 @@
 Hao Wang's theorem prover writter in SNOBOL4.
 =============================================
 
-This is Hao Wang's algorithm for theorem proving, written in SNOBOL4.
+This is [Hao Wang's algorithm][wang] for theorem proving, written in SNOBOL4.
+
+[wang]: https://dl.acm.org/doi/abs/10.1145/367177.367224
 
 It may be found in a 1987 diskette containing the text and code of the report
 *Artificial Intelligence Programming in SNOBOL4* written by Michael G. Shafto;
